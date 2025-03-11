@@ -90,4 +90,5 @@ cfg.pin_miso = -1;  // SPI、MISO
 cfg.pin_dc = 41; 
 
 #define TOUCH_GT911_SCL 16
+
 #define TOUCH_GT911_SDA 15
