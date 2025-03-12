@@ -12,9 +12,9 @@ After opening the sample code in the relevant code file with Arduino IDE.set the
 
 ***\*Configuration parameter：\****
 
+![图片4-1](https://github.com/user-attachments/assets/e48e54d2-aef8-47e3-bf1a-286c022d3294)
 
 
-![图片4-1](C:\Users\honor(BJB-031)\Desktop\Advance README\example2.4\4. SD card stores images and displays them locally\图片4-1.png)
 
 
 
