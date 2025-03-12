@@ -12,9 +12,9 @@ After opening the sample code in the relevant code file with Arduino IDE.set the
 
 ***\*Configuration parameter：\****
 
+![图片3-1](https://github.com/user-attachments/assets/8e0f5379-de8d-44f3-b700-986219a9c90d)
 
 
-![图片3-1](C:\Users\honor(BJB-031)\Desktop\Advance README\example2.4\3. Use LVGL library to create UI interface and light up lights\图片3-1.png)
 
 
 
