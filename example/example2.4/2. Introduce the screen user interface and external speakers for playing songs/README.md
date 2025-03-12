@@ -15,16 +15,16 @@ This is an example of a program that uses a speaker to play an MP3 file from the
 After opening the sample code in the relevant code file with Arduino IDE.
 
 Set up your wifi in code.
-
-![image2-1](C:\Users\honor(BJB-031)\Desktop\Advance README\example2.4\2. Introduce the screen user interface and external speakers for playing songs\image2-1.png)
+![image2-1](https://github.com/user-attachments/assets/7d4967ec-261b-496a-a516-4be54941fc00)
 
 
 
 set the required configuration parameters and program it onto the development board
 
 ***\*Configuration parameter：\****
+![image2-2](https://github.com/user-attachments/assets/725ec38a-0111-4c1a-963c-2931704bcce2)
 
-![image2-2](C:\Users\honor(BJB-031)\Desktop\Advance README\example2.4\2. Introduce the screen user interface and external speakers for playing songs\image2-2.png)
+
 
 
 
