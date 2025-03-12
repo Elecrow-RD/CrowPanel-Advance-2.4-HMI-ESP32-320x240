@@ -12,9 +12,8 @@ After opening the sample code in the relevant code file with Arduino IDE.set the
 
 ***\*Configuration parameter：\****
 
+![图片6-1](https://github.com/user-attachments/assets/0e1fb4bd-85cf-4e75-a022-7b6c699a88fd)
 
-
-![图片6-1](C:\Users\honor(BJB-031)\Desktop\Advance README\example2.4\6. nRF2401 communication\图片6-1.png)
 
 
 
