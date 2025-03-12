@@ -22,7 +22,8 @@ You can find detailed video tutorials at the bottom of the page.
 
 Ensure that your Python version is 3.10.6. Then, open the Command Prompt (or terminal) and navigate to the code folder. Run the following commands to create a virtual environment and install the related dependencies.
 
-![图片10-1](C:\Users\honor(BJB-031)\Desktop\Advance README\example2.4\10.Build AI Chatbot\图片10-1.png)
+![图片10-1](https://github.com/user-attachments/assets/ec42aa46-72ed-4f5c-942a-4e9cdf0bc55e)
+
 
 cmd
 
@@ -42,13 +43,15 @@ After installing the dependencies, you can run the 'ws.py' script to execute the
 
 The next step is to modify the ESP32 device code. We only need to change the server's IP address to ensure the device is on the same LAN as the WiFi network.
 
-![图片10-2](C:\Users\honor(BJB-031)\Desktop\Advance README\example2.4\10.Build AI Chatbot\图片10-2.png)
+
+![图片10-2](https://github.com/user-attachments/assets/3dc19d97-984e-4611-adb0-2ce7f0bfbc45)
 
 
 
 ***\*Configuration parameter：\****
 
-![图片10-3](C:\Users\honor(BJB-031)\Desktop\Advance README\example2.4\10.Build AI Chatbot\图片10-3.png)
+![图片10-3](https://github.com/user-attachments/assets/cb10741b-7a83-436a-a320-d945e7084acb)
+
 
 
 
