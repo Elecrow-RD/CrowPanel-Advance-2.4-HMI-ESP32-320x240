@@ -13,8 +13,9 @@ To complete this case, you need to refer to the detailed documentation tutorial,
 Learn how to set up a gateway.After opening the sample code in the relevant code file with Arduino IDE.set the required configuration parameters and program it onto the development board
 
 ***\*Configuration parameter：\****
+![图片7-1](https://github.com/user-attachments/assets/e20297ad-d975-4000-b5e7-a39fe24b2d6b)
 
-![图片7-1](C:\Users\honor(BJB-031)\Desktop\Advance README\example2.4\7.Advnace_wirelessmodule_loawan\图片7-1.png)
+
 
 
 
