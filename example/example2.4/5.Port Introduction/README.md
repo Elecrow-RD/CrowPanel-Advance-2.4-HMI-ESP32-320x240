@@ -12,9 +12,10 @@ After opening the sample code in the relevant code file with Arduino IDE.set the
 
 ***\*Configuration parameter：\****
 
+![图片5-1](https://github.com/user-attachments/assets/8fb01397-8412-4daf-9e5a-7aaa49975a00)
 
 
-![图片5-1](C:\Users\honor(BJB-031)\Desktop\Advance README\example2.4\5.Port Introduction\图片5-1.png)
+
 
 
 
