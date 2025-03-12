@@ -12,8 +12,7 @@ After opening the sample code in the relevant code file with Arduino IDE, set th
 
 ***\*Configuration parameter：\****
 
-![image1-1](C:\Users\honor(BJB-031)\Desktop\Advance README\example2.4\1. Introduction to CrowPanel-Advance-HMI Screen\image1-1.png)
-
+![image1-1](https://github.com/user-attachments/assets/d6512ff1-0b2f-4f89-84f7-01ef7ed49978)
 
 
 ### **How to add Arduino libraries**
