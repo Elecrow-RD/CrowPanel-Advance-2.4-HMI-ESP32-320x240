@@ -10,7 +10,7 @@
 
 ### 3, product information
 
-| Main Chip-****ESP32-S3-WROOM-1-N16R8**     |                                                              |
+| Main Chip-**ESP32-S3-WROOM-1-N16R8**     |                                                              |
 | -------------------------------------------- | ------------------------------------------------------------ |
 | CPU/SoC                                      | high-performance Xtensa 32-bit LX7 dual-core processor, with a  up to 240MHz |
 | System Memory                                | 512KB SRAM、8M PSRAM                                         |
