@@ -13,10 +13,9 @@ This case illustrates generating text through the connection between the Advance
 First, learn how to obtain the Nvidia model key, and then replace it in the code.After opening the sample code in the relevant code file with Arduino IDE.set the required configuration parameters and program it onto the development board
 
 ***\*Configuration parameter：\****
+![图片8-1](https://github.com/user-attachments/assets/4a30c322-0f13-4024-a0fa-87969e49b76b)
 
 
-
-![图片8-1](C:\Users\honor(BJB-031)\Desktop\Advance README\example2.4\8.Elementary chatbot\图片8-1.png)
 
 
 
