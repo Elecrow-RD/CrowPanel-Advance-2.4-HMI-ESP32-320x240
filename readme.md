@@ -66,7 +66,7 @@ C:\Users\Documents\Arduino\libraries\
 
 2.Open the Arduino IDE
 
-Teaching Case Path：\example\example_code2.4
+Teaching Case Path：./example/example_code2.4
 
 ![1](https://github.com/user-attachments/assets/17b4e9af-a863-4bfd-839e-be94f00a33ad)
 
@@ -79,7 +79,7 @@ Teaching Case Path：\example\example_code2.4
 
 ### ESP-IDF starts
 
-Teaching Case Path：\example\idf_code
+Teaching Case Path：./example/idf_code
 
 1.Right-click on an empty space in the project folder and select "Open with VS Code" to open the project.
 ![4](https://github.com/user-attachments/assets/a842ad62-ed8b-49c0-bfda-ee39102da467)
